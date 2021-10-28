@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using EnrolmentSystem_BEHS.Logica;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 /*Se realizan
@@ -23,6 +24,9 @@ pruebas
 
 aqui*/
 >>>>>>> Prueba1
+=======
+/*Se borraron las pruebas anteriores*/
+>>>>>>> RamaArreglo#1
 namespace EnrolmentSystem_BEHS
 {
     public partial class Login : System.Web.UI.Page
